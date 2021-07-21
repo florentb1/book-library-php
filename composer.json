@@ -1,0 +1,15 @@
+{
+    "name": "florent/test-quitoque",
+    "authors": [
+        {
+            "name": "florent",
+            "email": "florent_465@hotmail.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    },
+    "require": {}
+}
